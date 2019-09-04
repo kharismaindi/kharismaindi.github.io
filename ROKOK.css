@@ -1,0 +1,32 @@
+.garis{
+    background-color: black;
+    width: 100%;
+    height: 2px;
+}
+h1{
+    text-align: center;
+}
+.sampurna{
+    background-color: dimgray;
+    
+    height:100px;
+    width: 100px;
+}
+
+.garis_2{
+    background-color: black;
+    width: 100%;
+    height: 30px;
+    color: white;
+    border: white;
+}
+.garis_2 a{
+    border: white;
+    color: white;
+    text-decoration: none;
+    padding: 6% 6% 6% 6% ;
+    
+}
+.garis_2 a header{
+
+}
